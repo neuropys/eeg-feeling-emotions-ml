@@ -1,0 +1,14 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.venv/
+
+# PyCharm project files
+.idea/
+
+# Data (raw Kaggle files)
+data/raw/
+*.csv
