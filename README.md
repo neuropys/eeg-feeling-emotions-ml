@@ -1,4 +1,4 @@
-````markdown
+
 # EEG Emotion Recognition with Low-Cost Muse EEG
 
 This repository contains the code for a student research project in which electroencephalography (EEG) recordings obtained with a low-cost Muse headset are used to classify positive, neutral and negative emotional states using supervised machine-learning methods. The work was conducted by **Rumeysa Kaplan** (BSc Psychology, University of Health Sciences) as an initial bridge between psychological training, basic neuroscience, and computational data analysis.
