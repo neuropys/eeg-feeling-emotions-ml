@@ -218,6 +218,4 @@ When appropriate, you may also cite this repository in the form:
 > Kaplan, R. (2025). *EEG Emotion Recognition with Low-Cost Muse EEG* (GitHub repository).
 > Available at: [https://github.com/neuropys/eeg-feeling-emotions-ml](https://github.com/neuropys/eeg-feeling-emotions-ml)
 
-```
-::contentReference[oaicite:0]{index=0}
-```
+
